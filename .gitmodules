@@ -1,0 +1,8 @@
+[submodule "submod/C"]
+	path = submod/C
+	url = git@github.com:YukimiDaaaifuku/submodC_2024.git
+	branch = main
+[submodule "submod/D"]
+	path = submod/D
+	url = git@github.com:YukimiDaaaifuku/submodD_2024.git
+	branch = main
